@@ -1,3 +1,5 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/mmkaddoura/song-genre-prediction/blob/main/genre_prediction_pipeline.ipynb)
+
 # Song Genre Prediction
 Can we predict a song's genre using Spotify's audio features? 
 
